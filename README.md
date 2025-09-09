@@ -32,7 +32,8 @@ Para simular um assistente virtual, criei e treinei um modelo de CLU para uma pi
 
 * **Insight:** (Escreva aqui o que você aprendeu. Acha que isso seria útil para uma empresa? Foi difícil treinar o modelo?)
 * **Evidências:**
-    ![Configuração do Modelo CLU](<img width="607" height="453" alt="image" src="https://github.com/user-attachments/assets/f9375450-b85b-4931-8deb-73e03f157175" />
+    ![Configuração do Modelo CLU](![Captura de tela_9-9-2025_145421_](https://github.com/user-attachments/assets/b6dfd397-dc03-4358-a626-469fb946fe52)
+
 )
     ![Teste do Modelo CLU](images/clu-teste.png)
 
