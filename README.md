@@ -23,7 +23,8 @@ Utilizei avaliações de clientes para testar a capacidade da IA em identificar 
 
 * **Insight:** (Escreva aqui o que você achou do resultado. Foi preciso? Foi fácil de usar?)
 * **Evidência:**
-    ![Análise de Sentimento](<img width="729" height="479" alt="image" src="https://github.com/user-attachments/assets/ea4b001a-cc70-43fd-98da-c9a3ea418285" />
+    ![Análise de Sentimento](![Analise de sentimentos](https://github.com/user-attachments/assets/6fc48348-e496-475c-9fe8-207d09b9b480)
+
 )
 
 ### 2. Compreensão da Linguagem Coloquial (CLU)
@@ -47,7 +48,8 @@ Gerei áudios a partir de texto, testando diferentes vozes neurais para resposta
 
 * **Insight:** (Escreva aqui sua opinião sobre a qualidade da voz. Soou natural? Qual voz você mais gostou?)
 * **Evidência:**
-    ![Teste de Síntese de Voz](<img width="778" height="467" alt="image" src="https://github.com/user-attachments/assets/22a1bee1-70d0-4505-8cd5-171f4838b8ad" />
+    ![Teste de Síntese de Voz](![Sintese de Voz](https://github.com/user-attachments/assets/3de2ffea-4a1e-4719-a92f-9eebe3f5d02f)
+
 )
 
 ---
